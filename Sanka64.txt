@@ -1,0 +1,3 @@
+name:sanika
+Class:TEITA
+roll no:62
